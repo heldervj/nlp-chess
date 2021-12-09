@@ -1,6 +1,6 @@
 # Mastering Chess Through Neural Languages
 
-For more details, read de pdf file.
+For more details, read the pdf file.
 
 # WIP
 
