@@ -43,7 +43,7 @@ There are 2 versions of the model: with and without the pre-movements sequence. 
 - I have an old code with python-chess that I took as base to build the playing environment. I still didn't find the blog post that implemented it at first. As soon as I found it, I'll put the reference here.
 
 
-# Games played with the model, I was always with the white pieces
+# Games played, I was always with the white pieces, model had the black ones
 
 I'm not good at chess.
 
